@@ -28,7 +28,7 @@ fi
 
 cd /tmp
 echo "Downloading latest version of Xray-core ..."
-wget -q https://amir3.space/panel.ipk
+wget -q https://raw.githubusercontent.com/SafaSafari/Install-Xray-V2ray-On-Passwall-Openwrt/main/panel.ipk
 
 if [[ -f panel.ipk ]]
 

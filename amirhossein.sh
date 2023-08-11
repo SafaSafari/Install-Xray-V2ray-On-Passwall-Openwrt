@@ -129,7 +129,7 @@ else
 
 fi
 
-wget https://raw.githubusercontent.com/amirhosseinchoghaei/mi4agigabit/main/owo.sh
+wget https://raw.githubusercontent.com/SafaSafari/Install-Xray-V2ray-On-Passwall-Openwrt/main/owo.sh
 
 chmod 777 owo.sh
 
